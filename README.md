@@ -25,6 +25,12 @@ Basically run:
 $ python run_CIL.py
 
 Note that you must have a carla server running . <br>
+
+```
+./CarlaUE4.sh -carla-server
+```
+must run in this way!!!
+
 To check the other options run
 
 $ python run_CIL.py --help
